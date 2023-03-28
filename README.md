@@ -1,9 +1,7 @@
 # Grid-for-Dashboard
 
-It is a dasborad grid with 5 equal size rows 4 of them is divided into 2 sub row the bootstrap class used is "short-div" and the 5th is comparatively bigger row.
-It is made only by html and css.
-
-The library used for icon is https://ionic.io/ionicons which is completely free and can be used throught a script tag.
+It is a dashboard grid with 5 equal-sized rows. Four of them are divided into 2 sub-rows; the bootstrap class used is "short-div" and the 5th is a comparatively bigger row. It is made only with HTML and CSS.
+The library used for the icon is https://ionic.io/ionicons which is completely free and can be used through a script tag.
 
 Hope it helps!
 
