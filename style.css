@@ -58,5 +58,5 @@
     box-shadow: 0 0 2px 0px ;
     backdrop-filter: blur(50px);
     border-radius: 10px !important;
-    
+    margin: 5px;
 }
