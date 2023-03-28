@@ -20,7 +20,7 @@
 			#edc949 99.9%
 	);
 	position: relative;
-	width: 500px;
+	width: 100%;
 	min-height: 350px;
 	margin: 0;
 	outline: 1px solid #ccc;
@@ -32,14 +32,14 @@
 .pie-chart cite {
 	position: absolute;
 	bottom: 0;
-	font-size: 80%;
+	font-size: 9px;
 	padding: 1rem;
 	color: gray;
 }
 .pie-chart figcaption {
 	position: absolute;
 	bottom: 0.2em;
-	right: 0.3em;
+	right: 10px;
 	font-size: smaller;
 	text-align: right;
 }
