@@ -29,13 +29,7 @@
 	position: absolute;
 	margin: 1rem;
 }
-.pie-chart cite {
-	position: absolute;
-	bottom: 0;
-	font-size: 9px;
-	padding: 1rem;
-	color: gray;
-}
+
 .pie-chart figcaption {
 	position: absolute;
 	bottom: 0.2em;
